@@ -1,0 +1,6 @@
+name = "LeanProofAudit"
+version = "0.1.0"
+defaultTargets = ["LeanProofAudit"]
+
+[[lean_lib]]
+name = "LeanProofAudit"
